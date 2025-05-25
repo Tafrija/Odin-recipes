@@ -1,1 +1,2 @@
 # Odin-recipes
+TOP is a self-paced programme that is offered freely by contributors who have willingly offered to help. I commit to finish the course by going through all the resources and i will be in position to come up with a solution apart from being ripe for job market
